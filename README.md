@@ -1,5 +1,5 @@
-## Photo Gallery app
+## Local Photo Gallery app
 
+Android App to display DCIM or Camera images as Gallery.
 
-
-![alt text](images/Gallery.gif)
+![Gallery.gif](Images%2FGallery.gif)
